@@ -11,3 +11,9 @@ A spring-boot application
 
 ## Example output
 <p>Output from an example run can be found in file: <code>run-output.txt</code></p>
+
+## Comments
+<p><ul>
+  <li>In hindsight, a more suitable architecture would've been to load data sets into SQL database (H2) and issue queries.</li>
+  <li>TraficLab api gives 153 stops on line 631. sl.se gives approx 130 stops for line 631. Reason for this discrepancy needs to be investigated.</li>
+</ul></p>
