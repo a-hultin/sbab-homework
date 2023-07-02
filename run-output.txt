@@ -1,0 +1,165 @@
+>>> 10 lines with most stops <<<
+lineNumber: 631 numStops: 153
+lineNumber: 639 numStops: 140
+lineNumber: 626 numStops: 133
+lineNumber: 636 numStops: 116
+lineNumber: 819 numStops: 112
+lineNumber: 638 numStops: 109
+lineNumber: 637 numStops: 104
+lineNumber: 620 numStops: 93
+lineNumber: 312 numStops: 83
+lineNumber: 783 numStops: 78
+>>> All stops for line 631 <<<
+stopPointName: Angskär-Skogsvik
+stopPointName: Koholma
+stopPointName: Björnö trädgårdsväg
+stopPointName: Tomta södra
+stopPointName: Frötuna skola
+stopPointName: Östhamra
+stopPointName: Mutsunda
+stopPointName: Räfsnäs norra
+stopPointName: Kungsgårdens vägskäl
+stopPointName: Räfsnäs såg
+stopPointName: Norrtälje busstation
+stopPointName: Fagervik
+stopPointName: Rådmansö skola
+stopPointName: Campus Roslagen
+stopPointName: Nänninge vägskäl
+stopPointName: Södersviks affär
+stopPointName: Aspnäs
+stopPointName: Humlegårdstorpet
+stopPointName: Myntarbyholm
+stopPointName: Björnö gård
+stopPointName: Tomta vägskäl
+stopPointName: Västergårdens vägskäl
+stopPointName: Åkerögården
+stopPointName: Kolbotten
+stopPointName: Räfsnäs såg
+stopPointName: Spillersboda såg
+stopPointName: Grindvaktsvägen
+stopPointName: Bläsboda
+stopPointName: Boängsvägen
+stopPointName: Vreta östra
+stopPointName: Björnö trädgårdsväg
+stopPointName: Myntarbyholm
+stopPointName: Gräddö Västerby
+stopPointName: Karlsborg
+stopPointName: Björkö Örn
+stopPointName: Bläsboda
+stopPointName: Gustavslund
+stopPointName: Rådmanby by
+stopPointName: Gräddö torg
+stopPointName: Nänninge vägskäl
+stopPointName: Lervik
+stopPointName: Räfsnäs garage
+stopPointName: Räfsnäs norra
+stopPointName: Vreta västra
+stopPointName: Gräddö Västerby
+stopPointName: Fagervik
+stopPointName: Rådmansö kyrka
+stopPointName: Gräddö gamla skola
+stopPointName: Södersvik östra
+stopPointName: Bygärdet
+stopPointName: Nyby-Bussholmens vägskäl
+stopPointName: Grindvaktsvägen
+stopPointName: Bygärdet
+stopPointName: Infjärden
+stopPointName: Vreta västra
+stopPointName: Myntarby äng
+stopPointName: Kullstugan
+stopPointName: Brantbacken
+stopPointName: Norrtälje busstation
+stopPointName: Södersviks affär Slingan
+stopPointName: Kolbotten
+stopPointName: Rådmanby affär
+stopPointName: Gräddö gamla skola
+stopPointName: Stakbron
+stopPointName: Riddersholms skola
+stopPointName: Östernäs affär
+stopPointName: Kullstugan
+stopPointName: Nänninge-Brevik
+stopPointName: Södersvik östra
+stopPointName: Lervik
+stopPointName: Angskär-Solbacken
+stopPointName: Håtö vägskäl
+stopPointName: Uppnäs
+stopPointName: Spillersboda såg
+stopPointName: Spillersboda skola
+stopPointName: Nänninge-Brevik
+stopPointName: Räfsnäs södra
+stopPointName: Koholma
+stopPointName: Ramsta
+stopPointName: Backtorp
+stopPointName: Aspnäs
+stopPointName: Näset
+stopPointName: Mutsunda
+stopPointName: Backtorp
+stopPointName: Strömsborg
+stopPointName: Vreta handel
+stopPointName: Görla östra
+stopPointName: Nabbo
+stopPointName: Östhamra
+stopPointName: Skarängen
+stopPointName: Nabbo
+stopPointName: Åkerögården
+stopPointName: Räfsnäs brygga
+stopPointName: Görla östra
+stopPointName: Gustavslund
+stopPointName: Björkö Örn
+stopPointName: Västergårdens vägskäl
+stopPointName: Stakbron
+stopPointName: Görla industriområde
+stopPointName: Räfsnäs vägskäl
+stopPointName: Nyängsvägen
+stopPointName: Åkerö affär
+stopPointName: Brantbacken
+stopPointName: Humlegårdstorpet
+stopPointName: Räfsnäs garage
+stopPointName: Västernäs
+stopPointName: Vreta handel
+stopPointName: Nyby-Bussholmens vägskäl
+stopPointName: Södersvik södra
+stopPointName: Räfsnäs södra
+stopPointName: Görla mellersta
+stopPointName: Boängsvägen
+stopPointName: Gräddö torg
+stopPointName: Spillersboda vägskäl
+stopPointName: Skarängen
+stopPointName: Näset
+stopPointName: Görla industriområde
+stopPointName: Zimsdal
+stopPointName: Spillersboda vägskäl
+stopPointName: Rådmansö kyrka
+stopPointName: Infjärden
+stopPointName: Vreta östra
+stopPointName: Kapellskär
+stopPointName: Karlsborg
+stopPointName: Östernäs affär
+stopPointName: Ramsta
+stopPointName: Spillersboda brygga
+stopPointName: Angskär-Skogsvik
+stopPointName: Björnö gård
+stopPointName: Brantbacken
+stopPointName: Spillersboda vägskäl
+stopPointName: Zimsdal
+stopPointName: Rådmanby affär
+stopPointName: Aspnäs
+stopPointName: Rådmanby by
+stopPointName: Angskär-Solbacken
+stopPointName: Myntarby äng
+stopPointName: Nyängsvägen
+stopPointName: Görla mellersta
+stopPointName: Campus Roslagen
+stopPointName: Uppnäs
+stopPointName: Söderuddens vägskäl
+stopPointName: Strömsborg
+stopPointName: Spillersboda skola
+stopPointName: Kungsgårdens vägskäl
+stopPointName: Södersvik södra
+stopPointName: Tomta vägskäl
+stopPointName: Södersviks affär
+stopPointName: Åkerö affär
+stopPointName: Riddersholms skola
+stopPointName: Söderuddens vägskäl
+stopPointName: Västernäs
+stopPointName: Håtö vägskäl
