@@ -7,7 +7,7 @@ A spring-boot application
 <code>%> export TRAFIKLAB_APIKEY=123...789</code>
 <p></p>
 <p>Start app</p>
-<code>%>mvn spring-boot:run</code>
+<code>%> mvn spring-boot:run</code>
 
 ## Example output
 <p>Output from an example run can be found in file: <code>run-output.txt</code></p>
