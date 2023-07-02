@@ -76,7 +76,7 @@ public class HomeworkApplication {
 
 				Iterator<LineDirection> iterator = sortedList.iterator();
 
-				// print in clear text (not log.info)
+				// print in clear text 
 				log.info(">>> 10 lines with most stops <<<");
 				// print 10 lines with most stops
 				while (numprinted < 10 && iterator.hasNext()) {
