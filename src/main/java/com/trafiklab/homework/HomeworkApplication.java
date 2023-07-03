@@ -103,6 +103,9 @@ public class HomeworkApplication {
 				for(JourneyPatternPointOnLine journeyPatternPointOnLine : journeyPatternPointOnLineSet){
 					log.info("stopPointName: " + stopPointMap.get(journeyPatternPointOnLine.getJourneyPatternPointNumber()));
 				}
+
+				//exit application
+				System.exit(0);
 			}
 			catch(Exception e){
 				log.info("Error: " + e.getMessage());
