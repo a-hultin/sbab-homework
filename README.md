@@ -4,7 +4,7 @@ A spring-boot application
 
 ## How to run
 <p>Ensure TRAFIKLAB_APIKEY is set in the environment:</p>
-<code>%> export TRAFIKLAB_APIKEY=<api key></code>
+<code>%> export TRAFIKLAB_APIKEY=<i>api key</i></code>
 <p></p>
 <p>Start app</p>
 <code>%> mvn spring-boot:run</code>
